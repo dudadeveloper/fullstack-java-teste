@@ -32,7 +32,7 @@ Arquitetura: Pode-se utilizar qualquer recurso da especificação JavaEE.
 
 ### Requisito
 
-Consultar as solicitações de viagens filtrando pelos últimos 3 meses e separar apenas as que contenham produtos Aéreos.
+Consultar as solicitações de viagens filtrando pelos últimos 24 meses e separar apenas as que contenham produtos Aéreos.
 
 Criar um banco de dados / tabela para persistir as informações da solicitação de viagem com as infromações básicas: Nome do Passageiro, CIA Aérea, Data/Hora de Saída e Chegada, Cidades de Origem e Destino.
 
